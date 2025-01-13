@@ -1,2 +1,2 @@
-# Qunatum-phenomeno-
-this are the code which simulate quantum processes in python lib qutip
+# Quantum-Phenomena-
+This repository contains Python code for simulating quantum phenomena using the QuTiP library.
